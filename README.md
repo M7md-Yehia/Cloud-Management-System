@@ -34,3 +34,18 @@ Python 3 installed ([Download Python](https://www.python.org/downloads/))
 Docker installed and running ([Get Docker](https://docs.docker.com/get-docker/))
 
 QEMU installed (https://www.qemu.org/download/)
+
+Workflow
+Click Create Virtual Machine to set CPU, memory, disk size, and select an ISO file to start a VM.
+
+Use Create Dockerfile to write and save Dockerfiles.
+
+Build images via Build Docker Image by specifying Dockerfile path and image name.
+
+List images or running containers via respective buttons.
+
+Stop containers by specifying container ID or name.
+
+Search images locally or on DockerHub.
+
+Pull images from DockerHub by specifying image name/tag.
